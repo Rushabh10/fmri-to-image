@@ -7,3 +7,5 @@ This project investigates fMRI-based image reconstruction using the BOLD5000 dat
 3) Autoencoder based approach
 4) Generative Adversarial Network
 5) CLIP and Diffusion
+
+Link to all project files (model weights, losses, results) - https://drive.google.com/drive/folders/1F44NhFcpMAsduOUAGUPg84gz3Lh1JvTJ?usp=sharing
