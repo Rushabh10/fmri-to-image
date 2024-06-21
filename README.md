@@ -9,3 +9,5 @@ This project investigates fMRI-based image reconstruction using the BOLD5000 dat
 5) CLIP and Diffusion
 
 Link to all project files (model weights, losses, results) - https://drive.google.com/drive/folders/1F44NhFcpMAsduOUAGUPg84gz3Lh1JvTJ?usp=sharing
+
+Link to presentation - https://docs.google.com/presentation/d/1UDfHlcm3WDm1KE0ps_PxyeImsY9C5RboOu7LR_19k_M/edit?usp=sharing
